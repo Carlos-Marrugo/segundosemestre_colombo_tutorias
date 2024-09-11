@@ -71,3 +71,19 @@ public class Main {
         }
     }
 }
+
+/*
+ public static void ordenarContactosPorNombre(ArrayList<Contacto> contactos) {
+        // Ordenación manual usando el algoritmo de la burbuja
+        for (int i = 0; i < contactos.size() - 1; i++) {
+            for (int j = 0; j < contactos.size() - i - 1; j++) {
+                if (contactos.get(j).getNombre().compareToIgnoreCase(contactos.get(j + 1).getNombre()) > 0) {
+                    // Intercambiamos los contactos si están en el orden incorrecto
+                    Contacto temp = contactos.get(j);
+                    contactos.set(j, contactos.get(j + 1));
+                    contactos.set(j + 1, temp);
+                }
+            }
+        }
+        System.out.println("Contactos ordenados por nombre.");
+*/
