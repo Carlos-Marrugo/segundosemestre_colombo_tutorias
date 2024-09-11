@@ -1,4 +1,3 @@
-
 public class Tarea {
 
     private String descripcion;
@@ -30,4 +29,3 @@ public class Tarea {
         return descripcion + (completada ? " (Completada)" : " (Pendiente)");
     }
 }
-
