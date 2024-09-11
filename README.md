@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f1dc1642-2f71-4958-830a-6c1ce63e8566)# Tutorias Unicolombo Segundo Semestre
+# Tutorias Unicolombo Segundo Semestre
 Repositorio de todos los ejercicios que se hacen en clases!!!
 
 Ejercicio 1: Gestión de Contactos
